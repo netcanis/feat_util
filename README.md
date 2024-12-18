@@ -81,12 +81,12 @@ if let topVC = UIViewController.hiTopMostViewController() {
 
 ## **Installation**
 
-Using Swift Package Manager (SPM)
+### **Swift Package Manager (SPM)**
 
-Add the following to your Package.swift:
-```swift
-.package(url: "https://github.com/netcanis/feat_util.git", .upToNextMajor(from: "1.0.0"))
-```
+1. Open your project in **Xcode**.
+2. Go to **File > Add Packages...**.
+3. Enter the repository URL:  https://github.com/netcanis/feat_util.git
+4. Select the desired version and integrate the package into your project.
 
 ---
 
